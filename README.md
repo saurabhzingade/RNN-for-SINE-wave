@@ -6,3 +6,7 @@ This is the wave using simple RNN without LSTMS
 
 
 ![](simple.png)
+
+
+This is the network with LSTMS
+![](LSTM.png)
