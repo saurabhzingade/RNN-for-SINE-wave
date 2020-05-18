@@ -5,4 +5,4 @@ A basic Rnn network using LSTMs . It is used to predit th furtur Sine wave and h
 This is the wave using simple RNN without LSTMS
 
 
-![](Simple Rnn.png)
+![](simple.png)
