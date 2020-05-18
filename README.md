@@ -13,11 +13,9 @@ This is the network with LSTMS
 
 
 
-![](LSTM.png)![](RNN_sin.png)
+![](LSTM.png) ![](RNN_sin.png)
 
 
-The orange part is the prediction of the SIN wave in the future
 
-![](RNN_sin.png)
 
 
