@@ -9,4 +9,12 @@ This is the wave using simple RNN without LSTMS
 
 
 This is the network with LSTMS
+
+
+
+
 ![](LSTM.png)
+
+
+
+
